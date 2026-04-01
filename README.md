@@ -14,6 +14,8 @@ Proyecto de servicio social enfocado en el diseño y desarrollo de un software e
 <img width="1020" height="573" alt="Imagen4" src="https://github.com/user-attachments/assets/be85381f-ba96-4b52-9a5e-81bc94f76502" />
 <img width="1016" height="571" alt="Imagen3" src="https://github.com/user-attachments/assets/50a48bf9-ae9d-4105-9400-f6246edbf727" />
 <img width="1019" height="569" alt="Imagen2" src="https://github.com/user-attachments/assets/5aad0bf0-7ecd-4b07-a384-346579e31906" />
+<img width="1023" height="580" alt="Imagen5" src="https://github.com/user-attachments/assets/c96c7e04-6992-4adf-a64a-a211c282b9b7" />
+
 
 - Creación de escenarios temáticos completos para cada minijuego.
 - Implementación de menús y GUI funcionales, intuitivos y fáciles de usar.
