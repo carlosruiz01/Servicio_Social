@@ -8,8 +8,17 @@ Proyecto de servicio social enfocado en el diseño y desarrollo de un software e
 - Creación de experiencias de aprendizaje interactivas que refuerzan conceptos matemáticos clave como fracciones, cálculo de precios, navegación por coordenadas y simetría.
 - Desarrollo de un juego didáctico compuesto por cuatro minijuegos con una temática unificada ambientada en pizzerías.
 - Diseño y animación de personajes antropomórficos originales, incluyendo zarigüeya, murciélago, cerdo, serpiente, pájaro toh y un *alux*.
+
+<img width="1021" height="572" alt="Imagen1" src="https://github.com/user-attachments/assets/95d4fcb9-330a-4a53-a542-51597b1c2b76" />
+<img width="1020" height="573" alt="Imagen7" src="https://github.com/user-attachments/assets/deed85df-7f70-487e-bf03-962d1611b6d1" />
+<img width="1020" height="573" alt="Imagen4" src="https://github.com/user-attachments/assets/be85381f-ba96-4b52-9a5e-81bc94f76502" />
+<img width="1016" height="571" alt="Imagen3" src="https://github.com/user-attachments/assets/50a48bf9-ae9d-4105-9400-f6246edbf727" />
+<img width="1019" height="569" alt="Imagen2" src="https://github.com/user-attachments/assets/5aad0bf0-7ecd-4b07-a384-346579e31906" />
+
 - Creación de escenarios temáticos completos para cada minijuego.
 - Implementación de menús y GUI funcionales, intuitivos y fáciles de usar.
+
+
 
 # Acerca de los autores
 **Edgar Sabido Cortés** *[@EdgarSabidoC](https://github.com/EdgarSabidoC)*</br>
